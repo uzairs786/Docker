@@ -38,7 +38,7 @@ Infrastructure → Host OS → Docker Engine → Container (App + Binaries + Lib
 * Managed by the **Docker Engine**, not a hypervisor
 * **Lightweight** (no guest OS)
 * **Fast startup** (seconds)
-* Provide **process-level isolation**
+* Provide **process-level isolation**: They share the Host OS but the processes of the applications are isolated from eachother.
 * Highly **portable** across environments
 
 ---
