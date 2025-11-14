@@ -71,5 +71,3 @@ Infrastructure → Host OS → Docker Engine → Container (App + Binaries + Lib
 * Understanding both helps you choose the right tool and answer interview questions confidently.
 
 ---
-
-If you want, I can also create a **one-page cheat sheet** for your GitHub repo summarising all modules so far.
